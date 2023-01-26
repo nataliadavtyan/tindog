@@ -122,6 +122,7 @@ button {
     border-radius: 50%;
     border: none;
     display: flex;
+    cursor: pointer;
 }
 
 button:active {
