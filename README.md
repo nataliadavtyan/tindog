@@ -24,7 +24,7 @@ The project is built using:
 * Followed the design file on Figma.
 
 ## Acknowledgements
-Personal blog is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
+Tindog is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
 
 ## Project status
 The project is complete.
