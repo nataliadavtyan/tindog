@@ -1,11 +1,33 @@
-## About Scrimba
+# Tindog
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Tinder for dogs
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Features
+Users can like or not a profile. After their decision a badge with their choice will be rendered and after a second they will see the next profile. When there will be no more profiles left, they will see a message.
 
-Happy Coding!
+## Demo
+![The demonstration](images/tindog.gif)
+
+Test it on Netlify: https://lambent-cupcake-be9426.netlify.app/
+
+## Technologies
+The project is built using:
+* HTML
+* CSS
+* JavaScript
+
+## Technical details
+* Used the data file and Javascript classes to render the profiles in JavaScript.
+* Depending on the button pressed, a certain badge is rendered over the image.
+* Added a short pause before the next profile is rendered.
+* Users cannot press the buttons during this pause.
+* Followed the design file on Figma.
+
+## Acknowledgements
+Personal blog is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
+
+## Project status
+The project is complete.
+
+## Contact
+Created by [Natalia Davtyan](https://github.com/nataliadavtyan)
