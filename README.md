@@ -23,11 +23,11 @@ The project is built using:
 * Users cannot press the buttons during this pause.
 * Followed the design file on Figma.
 
-## Acknowledgements
-Tindog is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
-
 ## Project status
 The project is complete.
+
+## Acknowledgements
+Tindog is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
 
 ## Contact
 Created by [Natalia Davtyan](https://github.com/nataliadavtyan)
