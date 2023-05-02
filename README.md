@@ -8,7 +8,7 @@ Users can like or not a profile. After their decision a badge with their choice 
 ## Demo
 ![The demonstration](images/tindog.gif)
 
-Test it on Netlify: https://lambent-cupcake-be9426.netlify.app/
+Test it on Netlify: https://tindog-natalia-davtyan.netlify.app/
 
 ## Technologies
 The project is built using:
